@@ -1,0 +1,9 @@
+blank_issues_enabled: true
+
+contact_links:
+  - name: 🔗 提交新硬件参数
+    url: https://github.com/Hermod-Robotics/hermod/blob/main/CONTRIBUTING.md
+    about: 贡献电机/传感器/驱动芯片/MCU 参数，请先阅读贡献指南
+  - name: 💬 讨论与想法
+    url: https://github.com/Hermod-Robotics/hermod/discussions
+    about: 使用问题、功能建议，请在 Discussions 交流
