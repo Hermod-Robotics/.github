@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hermod-Robotics/.github/main/assets/Hermod_Logo.png" alt="Hermod" height="120">
+  <img src="https://raw.githubusercontent.com/Hermod-Robotics/.github/main/assets/Hermod_Logo.jpg" alt="Hermod" height="120">
 </p>
 
 <h1 align="center">Hermod-Robotics</h1>
